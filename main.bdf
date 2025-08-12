@@ -224,3 +224,5 @@ on the Quartus Prime software download page.
 	(pt 144 352)
 	(pt 144 320)
 )
+(text "OFF = SLOW" (rect -40 368 35 383)(font "Intel Clear" (font_size 8)))
+(text "ON = FAST" (rect -40 384 24 399)(font "Intel Clear" (font_size 8)))
