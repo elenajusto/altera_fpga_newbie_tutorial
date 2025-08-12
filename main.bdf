@@ -186,10 +186,6 @@ on the Quartus Prime software download page.
 	)
 )
 (connector
-	(pt 264 128)
-	(pt 312 128)
-)
-(connector
 	(pt -16 128)
 	(pt 24 128)
 )
@@ -223,6 +219,10 @@ on the Quartus Prime software download page.
 (connector
 	(pt 144 352)
 	(pt 144 320)
+)
+(connector
+	(pt 256 128)
+	(pt 312 128)
 )
 (text "OFF = SLOW" (rect -40 368 35 383)(font "Intel Clear" (font_size 8)))
 (text "ON = FAST" (rect -40 384 24 399)(font "Intel Clear" (font_size 8)))
